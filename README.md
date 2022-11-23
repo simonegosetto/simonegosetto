@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=simonegosetto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <!--
 **simonegosetto/simonegosetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
